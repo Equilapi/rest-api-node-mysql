@@ -1,5 +1,5 @@
 # rest-api-node-mysql
-Servidor desarrollado en NodeJS que consume los datos de un entorno MySql.
+Servidor desarrollado en NodeJS + ExpressJS que consume los datos de un entorno MySql(Workbench).
 
 # Instrucciones
 1) Instalar dependencias ejecutando en el terminal "npm install"
