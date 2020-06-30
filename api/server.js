@@ -12,7 +12,7 @@ global.__root = __dirname + '/'
 
 // Url Principal
 app.get('/', function (req, res) {
-	res.json("Hello API");
+	res.json("Hello API")
 })
 
 // Routes
