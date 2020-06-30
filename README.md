@@ -1,12 +1,12 @@
 # rest-api-node-mysql
-Servidor desarrollado en NodeJS que consume los datos de un entorno MySql
+Servidor desarrollado en NodeJS que consume los datos de un entorno MySql.
 
 # Instrucciones
 1) Instalar dependencias ejecutando en el terminal "npm install"
 
 2) Configurar el archivo /api/database.js y agregar password y database, credenciales de la base de datos del servidor MySQL.
 
-3) Para levantar el proyecto escribir en el terminal "nodemon"
+3) Para levantar el proyecto ejecutar en el terminal "nodemon"
 
 # CONSUMIR ENDPOINT DESDE POSTMAN
 
